@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **mstudiobuild@gmail.com**
 
-- 📄 Know about my experiences [https://saratov.hh.ru/applicant/resumes/view?resume=4fbab9f3ff0916333c0039ed1f326a39383979](https://saratov.hh.ru/applicant/resumes/view?resume=4fbab9f3ff0916333c0039ed1f326a39383979)
+- 📄 Know about my experiences [https://bit.ly/3LSdGYE](https://bit.ly/3LSdGYE)
 
 - ⚡ Fun fact **I am 16 😉**
 
