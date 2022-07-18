@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/3LSdGYE](https://bit.ly/3LSdGYE)
 
-- ⚡ Fun fact **I am 16 😉**
+- ⚡ Fun fact **I am 17 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
