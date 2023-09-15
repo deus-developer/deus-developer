@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem Ukolov</h1>
-<h3 align="center">A python backend developer from Russia</h3>
+<h3 align="center">A python backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deus-developer&label=Profile%20views&color=0e75b6&style=flat" alt="deus-developer" /> </p>
 
@@ -11,17 +11,12 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [https://deusdeveloper.ru](https://deusdeveloper.ru)
-
-- 📝 I regularly write articles on [https://blog.deusdeveloper.ru](https://blog.deusdeveloper.ru)
-
 - 💬 Ask me about **python, telegram, pyrogram**
 
 - 📫 How to reach me **mstudiobuild@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/3LSdGYE](https://bit.ly/3LSdGYE)
 
-- ⚡ Fun fact **I am 17 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
