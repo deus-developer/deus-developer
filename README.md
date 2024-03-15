@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deus-developer" alt="deus-developer" /></a> </p>
 
-- 🔭 I’m currently working on 
-
 - 🌱 I’m currently learning **html, javascript, css, react**
 
 - 👯 I’m looking to collaborate on **any project**
 
 - 💬 Ask me about **python, telegram, pyrogram**
 
-- 📫 How to reach me **mstudiobuild@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/3LSdGYE](https://bit.ly/3LSdGYE)
+- 📫 How to reach me **deusdeveloper@icloud.com**
 
 
 <h3 align="left">Connect with me:</h3>
