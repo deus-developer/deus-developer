@@ -17,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deus-developer&show_icons=true&locale=en&layout=compact" alt="deus-developer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deus-developer&show_icons=true&locale=en" alt="deus-developer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deus-developer&" alt="deus-developer" /></p>
