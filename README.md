@@ -2,12 +2,7 @@
 <h3 align="center">A Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deus-developer&label=Profile%20views&color=0e75b6&style=flat" alt="deus-developer" /> </p>
-
-- 🌱 I’m currently learning **react, svelte, rust**
-
-- 👯 I’m looking to collaborate on **any project**
-
-- 📫 How to reach me **deusdeveloper@icloud.com**
+- 📫 How to reach me **deusdeveloper@yandex.com**
 
 
 <h3 align="left">Connect with me:</h3>
