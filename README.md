@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deus-developer&label=Profile%20views&color=0e75b6&style=flat" alt="deus-developer" /> </p>
-- 📫 How to reach me **deusdeveloper@yandex.com**
+- 📫 How to reach me <b></b>deusdeveloper@yandex.com</b>
 
 
 <h3 align="left">Connect with me:</h3>
